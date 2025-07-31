@@ -138,8 +138,7 @@ const Home = () => {
                 <Button
                   size="lg"
                   variant="outline"
-                  style={{ color: 'var(--color-slate-900)' }}
-                  className="border-white text-white hover:bg-white hover:text-blue-900 px-8 py-4 text-lg"
+                  className="border-white text-slate-900 text-white hover:bg-white hover:text-blue-900 px-8 py-4 text-lg"
                 >
                   Ver Demonstração
                 </Button>

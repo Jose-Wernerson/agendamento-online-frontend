@@ -130,7 +130,7 @@ const Home = () => {
                 <Button
                   size="lg"
                   onClick={() => navigate('/login')}
-                  className="bg-yellow-400 hover:bg-yellow-500 text-blue-900 font-semibold px-8 py-4 text-lg"
+                  className="bg-yellow-400 hover:bg-yellow-500 text-blue-900 font-semibold px-8 py-4 text-lg cursor-pointer"
                 >
                   Começar Agora
                   <ArrowRight className="ml-2 h-5 w-5" />

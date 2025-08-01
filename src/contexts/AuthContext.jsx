@@ -43,7 +43,7 @@ export const AuthProvider = ({ children }) => {
       
       const mockEmpresa = {
         id: 1,
-        nome: 'Empresa Demo',
+        nome: 'Hora Fácil',
         email: email,
         cor_primaria: '#007BFF',
         cor_secundaria: '#6C757D',

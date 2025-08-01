@@ -327,7 +327,7 @@ const Home = () => {
               <Button
                 size="lg"
                 onClick={() => navigate('/login')}
-                className="bg-yellow-400 hover:bg-yellow-500 text-blue-900 font-semibold px-8 py-4 text-lg"
+                className="bg-yellow-400 hover:bg-yellow-500 text-blue-900 font-semibold px-8 py-4 text-lg cursor-pointer"
               >
                 Começar Teste Grátis
                 <ArrowRight className="ml-2 h-5 w-5" />
@@ -335,7 +335,7 @@ const Home = () => {
               <Button
                 size="lg"
                 variant="outline"
-                className="border-white text-white hover:bg-white hover:text-blue-900 px-8 py-4 text-lg"
+                className="border-white text-slate-900 hover:bg-white hover:text-blue-900 px-8 py-4 text-lg cursor-pointer"
               >
                 Falar com Especialista
               </Button>

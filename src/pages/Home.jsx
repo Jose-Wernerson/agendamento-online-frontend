@@ -21,7 +21,7 @@ const Home = () => {
   const features = [
     {
       icon: Calendar,
-      title: 'Hora Fácil',
+      title: 'agenda Fácil',
       description: 'Visualize e gerencie agendamentos com calendário intuitivo e responsivo.',
       color: 'bg-blue-500'
     },

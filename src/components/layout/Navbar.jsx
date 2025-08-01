@@ -44,7 +44,7 @@ const Navbar = () => {
               </div>
               <div className="hidden sm:block">
                 <h1 className="text-xl font-bold text-slate-900 dark:text-white">
-                  {empresa?.nome || 'AgendaOnline'}
+                  {empresa?.nome || 'Agenda Facil'}
                 </h1>
                 <p className="text-xs text-slate-500 dark:text-slate-400">
                   Sistema de Agendamento
